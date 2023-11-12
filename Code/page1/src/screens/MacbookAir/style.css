@@ -1,0 +1,117 @@
+.macbook-air {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-image: url(../../../static/img/macbook-air-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px solid;
+  border-color: #000000;
+  height: 832px;
+  position: relative;
+  width: 1280px;
+}
+
+.macbook-air .data-to-be-inputted {
+  height: 54px;
+  left: 450px;
+  position: absolute;
+  top: 389px;
+  transition: all 0.2s ease;
+  width: 415px;
+}
+
+.macbook-air .overlap-group {
+  background-color: #070f579c;
+  border: 0;
+  border-radius: 10px;
+  color: #ffffff4a;
+  font-family: "Angkor", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 34px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  top: 8px;
+  width: 413px;
+}
+
+.macbook-air .password {
+  height: 45px;
+  left: 515px;
+  position: absolute;
+  top: 461px;
+  transition: all 0.2s ease;
+  width: 401px;
+}
+
+.macbook-air .overlap {
+  height: 45px;
+  position: relative;
+  width: 399px;
+}
+
+.macbook-air .rectangle {
+  background-color: #070f579c;
+  border-radius: 10px;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.macbook-air .input {
+  background-color: transparent;
+  border: 0;
+  color: #ffffff4a;
+  font-family: "Angkor", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 36px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 9px;
+  transition: all 0.2s ease;
+  width: 385px;
+}
+
+.macbook-air .submit-button {
+  height: 29px;
+  left: 579px;
+  position: absolute;
+  top: 555px;
+  transition: all 0.2s ease;
+  width: 124px;
+}
+
+.macbook-air .div-wrapper {
+  background-color: #b8601c;
+  border-radius: 10px;
+  height: 29px;
+  position: relative;
+  width: 122px;
+}
+
+.macbook-air .text-wrapper {
+  color: #ffffff42;
+  font-family: "Angkor", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
